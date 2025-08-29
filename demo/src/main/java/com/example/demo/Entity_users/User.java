@@ -13,6 +13,4 @@ public class User {
     @Id
     private Integer userId;
     private String userName;
-
-
 }
