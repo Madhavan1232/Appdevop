@@ -17,4 +17,9 @@ public class DemoApplication {
 	public String hello(){
 		return "Hello world";
 	}
+
+	@GetMapping("/testing")
+	public int test(){
+		return 8080;
+	}	
 }
