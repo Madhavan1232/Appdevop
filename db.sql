@@ -14,3 +14,4 @@ INSERT INTO dummy VALUES
     (3, 'hu tao', '2025-08-28 12:00:00', 'no');
 
 SELECT * FROM dummy
+
